@@ -7,7 +7,7 @@
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-1" value="Safety PLC (Master)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="785" y="50" width="193" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="xNGpiTNFzHCqLgjhrB4T-2" value="Safety IO Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xNGpiTNFzHCqLgjhrB4T-2" value="Remote Safety IO Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="389" y="40" width="180" height="217" as="geometry" />
         </mxCell>
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-3" value="Robot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
