@@ -31,7 +31,7 @@
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-9" value="PLC_Master" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="124" width="143" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="xNGpiTNFzHCqLgjhrB4T-10" value="Connects to" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.75;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNGpiTNFzHCqLgjhrB4T-5" target="xNGpiTNFzHCqLgjhrB4T-4">
+        <mxCell id="xNGpiTNFzHCqLgjhrB4T-10" value="Connects to" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.75;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xNGpiTNFzHCqLgjhrB4T-8" target="xNGpiTNFzHCqLgjhrB4T-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
