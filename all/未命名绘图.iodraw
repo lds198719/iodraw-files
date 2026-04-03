@@ -23,10 +23,10 @@
           <mxGeometry x="120" y="75" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-7" value="Safety DI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="418" y="75" width="124" height="48" as="geometry" />
+          <mxGeometry x="418" y="75" width="82" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-8" value="Safety DO" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="173" width="130" height="48" as="geometry" />
+          <mxGeometry x="414" y="173" width="86" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-9" value="PLC_Master" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="124" width="143" height="48" as="geometry" />
