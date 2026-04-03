@@ -28,7 +28,7 @@
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-8" value="Safety DO" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="173" width="86" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="xNGpiTNFzHCqLgjhrB4T-9" value="PLC_Master" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xNGpiTNFzHCqLgjhrB4T-9" value="Safety PLC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="124" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xNGpiTNFzHCqLgjhrB4T-10" value="Connects to" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNGpiTNFzHCqLgjhrB4T-8" target="xNGpiTNFzHCqLgjhrB4T-5">
@@ -48,7 +48,7 @@
             <mxPoint x="670" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNGpiTNFzHCqLgjhrB4T-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;CIP Safety or ProfiSafe&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xNGpiTNFzHCqLgjhrB4T-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;CIP Safety or Profi Safe&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="150" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
